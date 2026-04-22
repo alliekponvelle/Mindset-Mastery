@@ -246,135 +246,204 @@
       <h2>The 14-Lesson Playbook</h2>
 
       <article class="lesson">
-        <h3>Lesson 1: Entrepreneurial Mindset vs. Employee Mindset</h3>
+        <h3>Lesson 1: The Entrepreneurial Mindset vs. The Employee Mindset</h3>
         <table>
           <thead><tr><th>Employee Mindset</th><th>Entrepreneur Mindset</th></tr></thead>
           <tbody>
-            <tr><td>Wait for instructions</td><td>Create the plan and execute</td></tr>
-            <tr><td>Avoid failure</td><td>Use failure as feedback</td></tr>
+            <tr><td>Seek permission before acting</td><td>Act, test, learn, and adjust</td></tr>
+            <tr><td>Avoid failure at all costs</td><td>Treat failure as data and feedback</td></tr>
             <tr><td>Trade time for money</td><td>Build systems that create money</td></tr>
-            <tr><td>Seek security</td><td>Seek freedom and opportunity</td></tr>
+            <tr><td>Wait for instructions</td><td>Create the plan and execute</td></tr>
+            <tr><td>Security over opportunity</td><td>Opportunity over comfort</td></tr>
+            <tr><td>"That is not my job"</td><td>Everything is my responsibility</td></tr>
           </tbody>
         </table>
-        <p>The shift to entrepreneurship is an identity reconstruction. You act your way into it. The goal is not to feel ready first, but to start behaving like a business owner now.</p>
+        <p>Most people were trained to be excellent employees. School rewards following directions, staying inside the lines, and avoiding wrong answers. Entrepreneurship rewards experimentation, initiative, and fast correction. That is why the shift feels deeper than a job change. It is an identity change.</p>
+        <p>You do not think your way into becoming an entrepreneur first. You act your way into it. Every decision you make either reinforces the identity of someone building a business or someone waiting for certainty. The question becomes: what would the business owner version of me do today?</p>
+        <div class="callout">
+          <strong>Action step:</strong> write down one thing you have been waiting to feel "ready" for. Do it this week before you feel ready.
+        </div>
       </article>
 
       <article class="lesson">
         <h3>Lesson 2: Fixed vs. Growth Mindset</h3>
+        <p>A fixed mindset treats talent, intelligence, and success as mostly predetermined. A growth mindset treats skill, confidence, and capability as things built through effort, feedback, repetition, and strategy.</p>
         <table>
-          <thead><tr><th>Fixed Mindset</th><th>Growth Mindset</th></tr></thead>
+          <thead><tr><th>Fixed Mindset Thought</th><th>Growth Mindset Reframe</th></tr></thead>
           <tbody>
             <tr><td>"I failed at this."</td><td>"This attempt gave me information."</td></tr>
-            <tr><td>"I'm not good at marketing."</td><td>"I have not mastered marketing yet."</td></tr>
-            <tr><td>"They're just lucky."</td><td>"What can I learn from their strategy?"</td></tr>
-            <tr><td>"I can't do this."</td><td>"I can't do this yet."</td></tr>
+            <tr><td>"I am not good at marketing."</td><td>"I have not mastered marketing yet."</td></tr>
+            <tr><td>"They are just lucky."</td><td>"What can I learn from their approach?"</td></tr>
+            <tr><td>"This is too hard."</td><td>"This is hard because it matters."</td></tr>
+            <tr><td>"I cannot do this."</td><td>"I cannot do this yet."</td></tr>
           </tbody>
         </table>
-        <p>The word <strong>yet</strong> changes everything. It shifts failure from verdict to stage of development.</p>
+        <p>The word <strong>yet</strong> is small but powerful. It turns inability into a stage instead of a sentence. It takes pressure off your ego and puts the focus back on process and repetition.</p>
+        <div class="grid">
+          <div class="card">
+            <h3>Fixed Mindset Signs</h3>
+            <ul>
+              <li>You interpret feedback as personal criticism.</li>
+              <li>You give up quickly when results are slow.</li>
+              <li>You are threatened by other people's success.</li>
+            </ul>
+          </div>
+          <div class="card">
+            <h3>Growth Mindset Signs</h3>
+            <ul>
+              <li>You ask what the result is teaching you.</li>
+              <li>You expect to improve with practice.</li>
+              <li>You treat other people's wins as proof that something is possible.</li>
+            </ul>
+          </div>
+        </div>
       </article>
 
       <article class="lesson">
         <h3>Lesson 3: Money Mindset</h3>
-        <p>Your beliefs about money often formed in childhood and still influence your prices, actions, ceiling, and self-worth. Most limiting money beliefs are inherited stories, not facts.</p>
+        <p>Your beliefs about money often formed before you had the language to question them. Family stress, scarcity, shame, religion, media, and childhood experiences can all create unconscious scripts about wealth. Those scripts shape pricing, receiving, asking, selling, investing, and even what level of success feels "safe" to you.</p>
         <table>
           <thead><tr><th>Old Story</th><th>New Story</th></tr></thead>
           <tbody>
-            <tr><td>Money is evil</td><td>Money is a tool</td></tr>
-            <tr><td>Rich people are selfish</td><td>Wealth gives me more capacity to help</td></tr>
+            <tr><td>Money is evil</td><td>Money is a tool that amplifies who I already am</td></tr>
+            <tr><td>Rich people are selfish</td><td>Wealth can increase my capacity to help and give</td></tr>
             <tr><td>I am bad with money</td><td>I am learning to manage money well</td></tr>
-            <tr><td>I do not deserve this</td><td>I create value and value earns income</td></tr>
+            <tr><td>I do not deserve this</td><td>I create value, and value deserves compensation</td></tr>
+            <tr><td>Online income is not real</td><td>Digital income is real and increasingly normal</td></tr>
           </tbody>
         </table>
+        <p>Many people also carry an unconscious income ceiling. They can imagine wanting more money, but they feel uncomfortable actually earning beyond a certain number. When income approaches that number, self-sabotage often appears as procrastination, underpricing, overthinking, distraction, or disappearing during a sales moment.</p>
+        <div class="callout">
+          <strong>Practice:</strong> every morning for 30 days, write three sentences in present tense about your financially expanded self. Keep them specific, simple, and believable enough to repeat daily.
+        </div>
       </article>
 
       <article class="lesson">
         <h3>Lesson 4: Fear, Resistance, and the Work</h3>
+        <p>Resistance is the force that shows up when you are about to do meaningful work. It often disguises itself as "being practical" or "needing more time." In reality, it is usually fear wearing a more respectable outfit.</p>
         <div class="grid">
           <div class="card">
             <h3>What Resistance Looks Like</h3>
             <ul>
-              <li>Researching forever instead of publishing</li>
-              <li>Perfecting low-impact details</li>
-              <li>Suddenly feeling too tired to do the important thing</li>
+              <li>Researching for hours instead of posting.</li>
+              <li>Reworking a logo instead of selling the offer.</li>
+              <li>Feeling exhausted right before a live or launch.</li>
+              <li>Cleaning, organizing, or shopping instead of creating.</li>
             </ul>
           </div>
           <div class="card">
-            <h3>The Reframe</h3>
+            <h3>The Fear Underneath</h3>
             <ul>
-              <li>Fear of judgment</li>
-              <li>Fear of failure</li>
-              <li>Fear of success and change</li>
+              <li>Fear of judgment: "What will people think?"</li>
+              <li>Fear of failure: "What if I try and it does not work?"</li>
+              <li>Fear of success: "What if this works and my life changes?"</li>
             </ul>
           </div>
         </div>
-        <p>The more resistance you feel toward a meaningful task, the more likely it matters. Use resistance as a compass, not a stop sign.</p>
+        <p>Courage is not the absence of fear. It is movement in the presence of fear. The goal is not to eliminate fear first. The goal is to build the habit of acting while fear is still in the room.</p>
       </article>
 
       <article class="lesson">
-        <h3>Lesson 5: Self-Discipline and Consistency</h3>
+        <h3>Lesson 5: Building Self-Discipline and Consistency Without Burnout</h3>
+        <p>Motivation is emotional weather. Discipline is architecture. You can not build a reliable business on waiting for the right feeling to arrive.</p>
         <ol>
-          <li>Design your environment so good actions are easier.</li>
-          <li>Use systems instead of waiting for motivation.</li>
-          <li>Anchor habits to identity: "I am someone who shows up."</li>
-          <li>Use the 2-minute rule to reduce friction and start.</li>
+          <li><strong>Design the environment:</strong> make good behavior easier and bad behavior harder.</li>
+          <li><strong>Use systems over willpower:</strong> batch work, protect deep work, template repetitive decisions.</li>
+          <li><strong>Make habits identity-based:</strong> "I am someone who posts," "I am someone who follows through."</li>
+          <li><strong>Use the 2-minute rule:</strong> lower the emotional barrier to starting.</li>
         </ol>
+        <p>Burnout is rarely caused by effort alone. It is usually a combination of effort, emotional disconnection, lack of recovery, unclear priorities, and invisible progress.</p>
         <div class="callout warning">
-          Burnout is usually not just hard work. It is hard work without meaning, rest, or visible progress.
+          Protect one full day each week with no business tasks. Recovery is not a reward after success. It is part of the system that makes success sustainable.
         </div>
       </article>
 
       <article class="lesson">
         <h3>Lesson 6: Imposter Syndrome</h3>
-        <p>You do not need to be the top expert to help someone. You only need to be honest, useful, and a few steps ahead of the person you are serving. Your real journey is enough qualification to create value.</p>
+        <p>Imposter syndrome tells you that you need more proof, more experience, more authority, and more perfection before you are allowed to help. That voice is lying. You do not need to be the best in the world to create value. You need to be honest, useful, and a few steps ahead of the person you are helping.</p>
+        <p>A better approach for creators is to document instead of perform. Show the process. Share what you are learning. Explain what worked, what failed, and what changed. That style is more relatable, more trustworthy, and far more sustainable than pretending to be finished when you are still growing.</p>
       </article>
 
       <article class="lesson">
         <h3>Lesson 7: Comparison</h3>
-        <p>Comparison becomes toxic when you measure your Chapter 3 against someone else's Chapter 30. Use comparison as research, not self-punishment. Study patterns, not status.</p>
+        <p>Comparison becomes destructive when you use someone else's visible success as evidence that you are behind. It steals attention from your own strategy, weakens confidence, and tempts you to copy instead of build.</p>
+        <p>The healthy version of comparison is research. Study pricing, cadence, positioning, offers, and audience response. Ask, "What is working here?" instead of, "Why am I not there yet?"</p>
+        <div class="callout">
+          <strong>Comparison audit:</strong> mute or unfollow anyone who triggers inadequacy more than action. That is not jealousy. It is mental hygiene.
+        </div>
       </article>
 
       <article class="lesson">
         <h3>Lesson 8: Resilience</h3>
-        <p>Failure is not the detour. It is part of the path. The useful question is never "Will I fail?" It is "What will I do next when something does not work?"</p>
+        <p>Every meaningful creator journey contains disappointment, rejection, awkward starts, and underperforming work. Failure is not the opposite of success. It is one of the mechanisms that produces it.</p>
         <ol>
-          <li>What was the expected outcome?</li>
+          <li>What outcome was expected?</li>
           <li>What actually happened?</li>
           <li>What explains the gap?</li>
-          <li>What will I change next time?</li>
+          <li>What lesson can be used immediately?</li>
+          <li>What is the next action within 48 hours?</li>
         </ol>
+        <p>Give yourself permission to feel the disappointment, but do not let it become your identity. Process it, extract the information, and move.</p>
       </article>
 
       <article class="lesson">
         <h3>Lesson 9: Environment and Community</h3>
-        <p>You become more like the people, conversations, and content around you. Audit your circle, protect your energy, and deliberately build creator community that stretches your standards upward.</p>
+        <p>You are affected by the people, conversations, standards, and emotional patterns around you. If your environment normalizes doubt, shrinking, and caution, your nervous system starts treating those things as reasonable defaults. If your environment normalizes action, ownership, and experimentation, your standards rise with it.</p>
+        <div class="grid">
+          <div class="card">
+            <h3>Audit Questions</h3>
+            <ul>
+              <li>Do the people around me support growth?</li>
+              <li>Do our conversations energize or drain me?</li>
+              <li>Am I around people who stretch my thinking?</li>
+            </ul>
+          </div>
+          <div class="card">
+            <h3>Helpful Environments</h3>
+            <ul>
+              <li>Masterminds and accountability groups</li>
+              <li>Skool, Discord, and niche communities</li>
+              <li>Peers who are building, not just commenting</li>
+            </ul>
+          </div>
+        </div>
       </article>
 
       <article class="lesson">
         <h3>Lesson 10: Productivity and Focus</h3>
+        <p>Being busy is not the same thing as building. The most effective creators protect the few activities that drive most of the result.</p>
         <table>
           <thead><tr><th>High-Value Work</th><th>Low-Value Busy Work</th></tr></thead>
           <tbody>
-            <tr><td>Creating and publishing content</td><td>Endless logo and website tweaks</td></tr>
-            <tr><td>Building and emailing your list</td><td>Tool hopping and research spirals</td></tr>
-            <tr><td>Launching and selling</td><td>Looking productive instead of shipping</td></tr>
+            <tr><td>Creating and publishing content</td><td>Endless visual tweaks and small edits</td></tr>
+            <tr><td>Writing and emailing your audience</td><td>Constant tool switching and setup</td></tr>
+            <tr><td>Launching, selling, following up</td><td>Performing productivity instead of shipping</td></tr>
           </tbody>
         </table>
-        <p>Protect deep work, time block, single-task, and plan tomorrow the night before.</p>
+        <p>Use deep work blocks, time blocking, and single-tasking. Decide the next day the night before so you remove decision fatigue from the morning.</p>
       </article>
 
       <article class="lesson">
         <h3>Lesson 11: Emotional Intelligence</h3>
-        <p>Self-awareness, self-regulation, empathy, and social skill all affect how you handle feedback, customers, collaborators, and stress. Business is human work. Emotional skill is a revenue skill.</p>
+        <p>Business is human work. Emotional intelligence affects how you handle criticism, conflict, disappointment, customer needs, collaboration, and pressure. Strong creators do not just manage content. They manage energy, relationships, and reactions.</p>
+        <ol>
+          <li><strong>Self-awareness:</strong> know your patterns and triggers.</li>
+          <li><strong>Self-regulation:</strong> pause before reacting.</li>
+          <li><strong>Empathy:</strong> understand what your audience feels.</li>
+          <li><strong>Social skill:</strong> strengthen trust and clarity in relationships.</li>
+        </ol>
       </article>
 
       <article class="lesson">
         <h3>Lesson 12: Vision, Goals, and Reverse Engineering</h3>
-        <p>Start with vision, then translate it into 90-day sprints, then reduce that sprint into daily actions. Every large goal has a today's task hiding inside it.</p>
+        <p>Start with a vivid picture of the life you are building, then work backward. Annual goals are often too vague and too distant to change behavior day by day. Ninety-day sprints create urgency and clarity.</p>
+        <p>Ask: what must be true in 90 days to know I am moving? Then break that into weekly outputs and daily actions. Big goals only become real when they turn into today's task list.</p>
       </article>
 
       <article class="lesson">
         <h3>Lesson 13: Spiritual and Holistic Foundations</h3>
-        <p>Sustainable success needs anchoring. Values, purpose, rest, play, recovery, gratitude, and alignment matter because success without foundation often feels empty or collapses under pressure.</p>
+        <p>Sustainable success needs more than output. It needs alignment. Values, purpose, meaning, gratitude, sleep, recovery, joy, and rest all influence the quality of your work and the kind of life your business creates.</p>
+        <p>Ask yourself what you want your life to feel like, not just what you want it to look like. Ask what you refuse to sacrifice for success. Ask who you are becoming through the process. Those answers become your filters.</p>
       </article>
 
       <article class="lesson">
@@ -383,37 +452,41 @@
           <div class="card">
             <h3>Week 1: Awareness</h3>
             <ul>
-              <li>Audit limiting beliefs about money and success</li>
-              <li>Identify your top fear patterns</li>
-              <li>Write your 3-year vision</li>
-              <li>Start a wins journal</li>
+              <li>Audit limiting beliefs about money, worth, and success</li>
+              <li>Identify your top fear-based resistance patterns</li>
+              <li>Write a 3-year vision in present tense</li>
+              <li>Start a daily wins journal</li>
+              <li>Do the thing you have been waiting to feel ready for</li>
             </ul>
           </div>
           <div class="card">
             <h3>Week 2: Rewire</h3>
             <ul>
-              <li>Replace one core limiting belief</li>
-              <li>Start daily gratitude</li>
+              <li>Choose one limiting belief and replace it</li>
+              <li>Start a written gratitude practice</li>
               <li>Raise your income ceiling mentally</li>
-              <li>Mute comparison triggers</li>
+              <li>Mute accounts that trigger comparison more than action</li>
+              <li>Create a 2-hour daily deep work block</li>
             </ul>
           </div>
           <div class="card">
             <h3>Week 3: Build Systems</h3>
             <ul>
               <li>Design your ideal workday</li>
-              <li>Create a morning routine</li>
-              <li>Identify top revenue activities</li>
-              <li>Apply the 80/20 audit</li>
+              <li>Create a morning routine tied to your vision</li>
+              <li>Identify your top 3 revenue-generating actions</li>
+              <li>Apply the 80/20 filter to your task list</li>
+              <li>Create a recovery plan for setbacks</li>
             </ul>
           </div>
           <div class="card">
             <h3>Week 4: Integrate</h3>
             <ul>
               <li>Reverse engineer your next 90 days</li>
-              <li>Rewrite every old story with a growth version</li>
-              <li>Make one environment upgrade</li>
-              <li>Commit to one next-level resource</li>
+              <li>Rewrite each old story into a growth story</li>
+              <li>Improve one physical, digital, or social environment factor</li>
+              <li>Commit to a mastermind, book, or community for the next month</li>
+              <li>Write a letter from your future self one year ahead</li>
             </ul>
           </div>
         </div>
